@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CinemaBox</string>
+
+    <string name="movie_tab">Film</string>
+    <string name="tv_tab">Acara TV</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a vehicula velit. Integer placerat ullamcorper fringilla. Praesent ut nibh vulputate, convallis nisi a, posuere arcu. Sed malesuada mattis nisi sed egestas. Nullam scelerisque vestibulum lectus eget euismod. Sed bibendum metus vitae nibh iaculis, ac euismod nisi cursus. Morbi id varius nunc, et ornare velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur leo turpis, laoreet ac sollicitudin quis, cursus ac odio. Duis eget efficitur metus. Nam quis eleifend mauris, sed mollis orci.</string>
+    <string name="dummy_date">2018</string>
+    <string name="dummy_rating">7.5</string>
+    <string name="title">Judul</string>
+    <string name="overview">Kilas Singkat</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="reminder_settings">Pengaturan Pengingat</string>
+    <string name="search_view">Search</string>
+    <string name="search_hint">Masukan Judul</string>
+    <string name="movie_details">Informasi Film</string>
+    <string name="tv_details">Informasi Acara</string>
+    <string name="poster">poster</string>
+    <string name="backdrop">backdrop</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorit</string>
+    <string name="no_data">Tidak ada data!</string>
+    <string name="favorite_add"> Telah ditambahkan ke dalam favorit</string>
+    <string name="favorite_delete"> Telah dihapus dari favorit</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="movie_widget_text">Film Favorit</string>
+    <string name="tv_widget_text">Acara TV Favorit</string>
+    <string name="empty_text">Tidak ada favorit</string>
+    <string name="favorite_item">Favorite Item</string>
+    <string name="favorite_button">Favorite Button</string>
+</resources>

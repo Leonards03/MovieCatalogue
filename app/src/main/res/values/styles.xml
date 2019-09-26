@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FAFAFA</item>
+        <item name="colorPrimaryDark">#C7C7C7</item>
+        <item name="colorAccent">#D50000</item>
+    </style>
+
+    <style name="MyRatingBar" parent="Widget.AppCompat.RatingBar.Small">
+        <item name="android:colorControlHighlight">#E4BB24</item>
+        <item name="android:isIndicator">true</item>
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">0.5</item>
+        <item name="android:rating">4.5</item>
+    </style>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CinemaBox</string>
+
+    <string name="movie_tab">Movies</string>
+    <string name="tv_tab">TV</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a vehicula velit. Integer placerat ullamcorper fringilla. Praesent ut nibh vulputate, convallis nisi a, posuere arcu. Sed malesuada mattis nisi sed egestas. Nullam scelerisque vestibulum lectus eget euismod. Sed bibendum metus vitae nibh iaculis, ac euismod nisi cursus. Morbi id varius nunc, et ornare velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur leo turpis, laoreet ac sollicitudin quis, cursus ac odio. Duis eget efficitur metus. Nam quis eleifend mauris, sed mollis orci.</string>
+    <string name="dummy_date">2018</string>
+    <string name="dummy_rating">7.5</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="change_language">Change Language</string>
+    <string name="reminder_settings">Reminder Settings</string>
+    <string name="search_view">Search</string>
+    <string name="search_hint">Enter a Title</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="tv_details">TV Details</string>
+    <string name="poster">poster</string>
+    <string name="backdrop">backdrop</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorites</string>
+    <string name="no_data">No Data!</string>
+    <string name="favorite_add"> Added to favorite</string>
+    <string name="favorite_delete"> Deleted from favorite</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add Widget</string>
+    <string name="movie_widget_text">Favorite Movies</string>
+    <string name="tv_widget_text">Favorite TV Shows</string>
+    <string name="empty_text">No Favorite</string>
+    <string name="favorite_item">Favorite Item</string>
+    <string name="favorite_button">Favorite Button</string>
+</resources>
